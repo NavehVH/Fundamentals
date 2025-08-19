@@ -11,7 +11,10 @@ namespace Fundamentals
         {
             ListNode n = new ListNode(1, null);
             n.next = new ListNode(2, null);
-            ListNode.PrintList(n);
+            n = ListNode.InsertToList(n, 5);
+            Console.WriteLine(string.Join(", ", ListNode.ListToArray(n))); 
+            n = ListNode.InsertToEndOfList(n, 9);
+            Console.WriteLine(string.Join(", ", ListNode.ListToArray(n))); 
         }
     }
 }
