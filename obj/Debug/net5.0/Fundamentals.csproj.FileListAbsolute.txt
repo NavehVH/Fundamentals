@@ -1,0 +1,16 @@
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.AssemblyInfo.cs
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\naveh\Desktop\Coding\Fundamentals\bin\Debug\net5.0\Fundamentals.exe
+C:\Users\naveh\Desktop\Coding\Fundamentals\bin\Debug\net5.0\Fundamentals.deps.json
+C:\Users\naveh\Desktop\Coding\Fundamentals\bin\Debug\net5.0\Fundamentals.runtimeconfig.json
+C:\Users\naveh\Desktop\Coding\Fundamentals\bin\Debug\net5.0\Fundamentals.runtimeconfig.dev.json
+C:\Users\naveh\Desktop\Coding\Fundamentals\bin\Debug\net5.0\Fundamentals.dll
+C:\Users\naveh\Desktop\Coding\Fundamentals\bin\Debug\net5.0\ref\Fundamentals.dll
+C:\Users\naveh\Desktop\Coding\Fundamentals\bin\Debug\net5.0\Fundamentals.pdb
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.dll
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\ref\Fundamentals.dll
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.pdb
+C:\Users\naveh\Desktop\Coding\Fundamentals\obj\Debug\net5.0\Fundamentals.genruntimeconfig.cache
