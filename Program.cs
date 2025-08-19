@@ -9,12 +9,9 @@ namespace Fundamentals
     {
         static void Main(string[] args)
         {
-            ListNode n = new ListNode(1, null);
-            n.next = new ListNode(2, null);
-            n = ListNode.InsertToList(n, 5);
-            Console.WriteLine(string.Join(", ", ListNode.ListToArray(n))); 
-            n = ListNode.InsertToEndOfList(n, 9);
-            Console.WriteLine(string.Join(", ", ListNode.ListToArray(n))); 
+            ListNode n = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5, null)))));
+            Console.WriteLine(ListNode.KValFromEnd(n, 4));
+            Console.WriteLine(string.Join(", ", ListNode.ListToArray(n)));
         }
     }
 }
